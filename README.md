@@ -14,9 +14,7 @@
 
 - ⚡ Fun fact **Whether it's for late-night study sessions or early morning classes, caffeine is often the unofficial 'study buddy' for students everywhere**
 
-
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=Aastik-Mehta-22&color=brightgreen)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aastik-mehta-145a50258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastik-mehta-145a50258" height="30" width="40" /></a>
@@ -33,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aastik-mehta-22&show_icons=true&locale=en" alt="aastik-mehta-22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aastik-mehta-22&" alt="aastik-mehta-22" /></p>
+
+
