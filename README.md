@@ -9,10 +9,15 @@
 - 🌱 I’m currently learning **Swift,MERN,Next.js**
 
 - 💬 Ask me about **c++,react**
+  <p align="end">
+  <img src="" width="600px"/>
+</p>
 
 - 📫 How to reach me **mehtaaastik12@gmail.com**
 
 - ⚡ Fun fact **Whether it's for late-night study sessions or early morning classes, caffeine is often the unofficial 'study buddy' for students everywhere**
+
+
 
 
 <h3 align="left">Connect with me:</h3>
