@@ -2,20 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0BC0F7&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+Aastik+Mehta;Full+Stack+Developer;Passionate+about+technology+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<table>
-  <tr>
-    <td>
-      <h3>
-        I embrace challenges with a smile and believe that a good laugh can make any debugging session a bit easier to handle. If you’re looking for a tech enthusiast who is passionate about coding and knows how to mix work with a touch of humor, let’s connect! 😊
-      </h3>
-    </td>
-    <td>
-      <img src="Leonardo_Phoenix_a_software_developer_a_young_adult_male_with_2.jpg" width="800px"  />
-    </td>
-  </tr>
-</table>
-
-
+<h3 align="center">I embrace challenges with a smile and believe that a good laugh can make any debugging session a bit easier to handle. If you’re looking for a tech enthusiast who is passionate about coding and knows how to mix work with a touch of humor, let’s connect! 😊</h3>
 
 - 🔭 I’m currently working on [Edutown](https://github.com/Aastik-Mehta-22/Edutown_OneStopSolution)
 
