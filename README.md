@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Edutown](https://github.com/Aastik-Mehta-22/Edutown_OneStopSolution)
 
-- 🌱 I’m currently learning **Swift,MERN,Next.js**
+- 🌱 I’m currently learning **Swift,Next.js**
 
 - 💬 Ask me about **c++,react**
 
