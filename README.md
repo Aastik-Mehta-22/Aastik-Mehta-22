@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Swift,Next.js**
 
-- 💬 Ask me about **c++,react**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **mehtaaastik12@gmail.com**
 
-- ⚡ Fun fact **Whether it's for late-night study sessions or early morning classes, caffeine is often the unofficial 'study buddy' for students everywhere**
+- ⚡ Fun fact **Deadlines are my best motivator. Nothing like a little last-minute panic to get things done!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aastik-Mehta-22&color=brightgreen)
 
