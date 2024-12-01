@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0BC0F7&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+Aastik+Mehta;Full+Stack+Developer;Passionate+about+technology+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Aastik Mehta</h1>
 
 <h3 align="center">I embrace challenges with a smile and believe that a good laugh can make any debugging session a bit easier to handle. If you’re looking for a tech enthusiast who is passionate about coding and knows how to mix work with a touch of humor, let’s connect! 😊</h3>
 
