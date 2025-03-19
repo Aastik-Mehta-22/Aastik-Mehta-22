@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Chapter & Co](https://github.com/Aastik-Mehta-22/BookStore)
 
-- 🌱 I’m currently learning **Swift,Next.js**
+- 🌱 I’m currently learning **iOS App Development**
 
 - 💬 Ask me about **C++**
 
