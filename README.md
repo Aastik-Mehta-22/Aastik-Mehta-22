@@ -2,9 +2,8 @@
 
 <h3 align="center">I embrace challenges with a smile and believe that a good laugh can make any debugging session a bit easier to handle. If you’re looking for a tech enthusiast who is passionate about coding and knows how to mix work with a touch of humor, let’s connect! 😊</h3>
 
-- 🔭 I’m currently working on [Chapter & Co](https://github.com/Aastik-Mehta-22/BookStore)
 
-- 🌱 I’m currently learning **iOS App Development**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **C++**
 
